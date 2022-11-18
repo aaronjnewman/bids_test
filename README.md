@@ -1,6 +1,10 @@
 # NCIL BIDS EEG template
 
-This repository serves as a template for EEG studies conducted in the [NeuroCognitive Imaging Lab](http://ncil.science), Department of Psychology & Neuroscience, [Dalhousie University](https://dal.ca), directed by Aaron J Newman](https://aaronjnewman.com).
+
+eriwoghj
+ehitg
+thijhaetgheratghrtehryts
+
 
 This contains a BIDS-compliant directory structure, along with scripts (in friendly Jupyter notebook format) to initialize the folder for a study and and also import data. New EEG studies (or studies switching to move to BIDS format) should make a copy of this template and initialize with with study-specific data as described below
 
