@@ -5,7 +5,10 @@ eriwoghj
 ehitg
 thijhaetgheratghrtehryts
 
-
+'ouhreghoe
+raigh
+ouergh
+o
 This contains a BIDS-compliant directory structure, along with scripts (in friendly Jupyter notebook format) to initialize the folder for a study and and also import data. New EEG studies (or studies switching to move to BIDS format) should make a copy of this template and initialize with with study-specific data as described below
 
 
